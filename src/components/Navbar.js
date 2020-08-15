@@ -1,6 +1,6 @@
 /*
 	This way of accessing context data can be used
-	on functions as well.
+	on functions as well.  
 */
 
 import React, { Component } from 'react';
